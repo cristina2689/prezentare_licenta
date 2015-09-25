@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {romanian}
+\beamer@sectionintoc {1}{Context}{2}{0}{1}
+\beamer@sectionintoc {2}{Motiva\IeC {{\textcommabelow t}}ie}{9}{0}{2}
+\beamer@sectionintoc {3}{Arhitectur\IeC {\u a} \IeC {{\textcommabelow s}}i design}{26}{0}{3}
+\beamer@sectionintoc {4}{Implementare}{28}{0}{4}
+\beamer@sectionintoc {5}{Rezultate}{63}{0}{5}
+\beamer@sectionintoc {6}{\^{I}ntreb\IeC {\u a}ri}{71}{0}{6}
