@@ -1,4 +1,4 @@
 # prezentare_licenta
 
-# cd ro/
-# make
+cd ro/
+make
